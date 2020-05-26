@@ -31,7 +31,7 @@ The short course is broken up into 5 sections, including:
 
 0. **Introduction**: objectives, plan
 1. **Variogram Calculation**: quantifying spatial continuity
-2. **Variogram Modeling**: formulating valide spatial continuity models
+2. **Variogram Modeling**: formulating valid spatial continuity models
 3. **Kriging**: spatial estimation
 4. **Conclusions**: summary and feedback
 
