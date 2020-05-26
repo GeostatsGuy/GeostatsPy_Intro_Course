@@ -1,6 +1,5 @@
 # Introduction to GeostatsPy Course
 
-Introduction to spatial data analytics and geostatistics with the GeostatsPy Python package
 
 
 <p>
@@ -9,7 +8,8 @@ Introduction to spatial data analytics and geostatistics with the GeostatsPy Pyt
 
 # Introduction to [GeostatsPy](https://github.com/GeostatsGuy/GeostatsPy) Course
 
-Open source Python package for Spatial / Subsurface Data Analytics and Geostatistics
+
+Introduction to GeostatsPy, an open source Python package for Spatial / Subsurface Data Analytics and Geostatistics
 
 #### Course Objectives:
 
