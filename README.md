@@ -4,7 +4,7 @@
 
 # Open Source Spatial Data Analytics in Python with [GeostatsPy](https://github.com/GeostatsGuy/GeostatsPy), Short Course
 
-by Michael Pyrcz, Associate Professor, The University of Texas at Austin
+## by Michael Pyrcz, Associate Professor, The University of Texas at Austin
 
 
 Introduction to GeostatsPy, an open source Python package for Spatial / Subsurface Data Analytics and Geostatistics
