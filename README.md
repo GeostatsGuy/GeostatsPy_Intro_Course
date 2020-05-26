@@ -49,6 +49,8 @@ import geostatspy.GSLIB as GSLIB
 import geostatspy.geostats as geostats
 ```
 
+For more information about about the GeostatsPy package check out the [documentation](https://github.com/GeostatsGuy/GeostatsPy) and [code](https://github.com/GeostatsGuy/GeostatsPy/tree/master/geostatspy). 
+
 You will need to copy these data files to your working directory.  They are available in the [DataSets](https://github.com/GeostatsGuy/GeostatsPy_Intro_Course/tree/master/DataSets) folder of this repository:
 
 * [sample_data_MV_biased,csv](https://github.com/GeostatsGuy/GeostatsPy_Intro_Course/blob/master/DataSets/sample_data_MV_biased.csv)
