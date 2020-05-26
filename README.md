@@ -4,6 +4,9 @@
 
 # Introduction to [GeostatsPy](https://github.com/GeostatsGuy/GeostatsPy), Short Course
 
+by Michael Pyrcz, Associate Professor, The University of Texas at Austin
+
+
 Introduction to GeostatsPy, an open source Python package for Spatial / Subsurface Data Analytics and Geostatistics
 
 I have included in this repository:
