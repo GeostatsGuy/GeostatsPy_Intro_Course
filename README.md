@@ -8,29 +8,33 @@ Introduction to GeostatsPy, an open source Python package for Spatial / Subsurfa
 
 I have included in this repository:
 
-1. the lectures
+1. the lectures as PDFs in the [Lectures](https://github.com/GeostatsGuy/GeostatsPy_Intro_Course/tree/master/Lectures) folder
 
-2. the well-documented and interactive demonstration workflows in Python
+2. the well-documented and interactive demonstration workflows in Python in the [Workflows](https://github.com/GeostatsGuy/GeostatsPy_Intro_Course/tree/master/Workflows) folder
 
-3. datasets required for the workflows
+3. datasets required for the workflows in the [Datasets](https://github.com/GeostatsGuy/GeostatsPy_Intro_Course/tree/master/DataSets) folder
 
 #### Course Objectives:
 
 You will gain:
-* knowledge concerning basics of the use of the GeostatsPy package for spatial/subsurface data analytics and geostatistics. 
+
+* knowledge concerning basics of the use of the GeostatsPy package for spatial/subsurface data analytics and geostatistics in Python. 
 
 * experience with a variety of practical spatial data analytics / geostatistics workflows in Python
 
 #### Course Agenda
-* Introduction: objectives, plan
-* Variogram Calculation - quantifying spatial continuity
-* Variogram Modeling - formulating valide spatial continuity models
-* Kriging - spatial estimation
-* Conclusions
+
+The short course is broken up into 5 sections, including:
+
+0 **Introduction**: objectives, plan
+1 **Variogram Calculation**: quantifying spatial continuity
+2 **Variogram Modeling**: formulating valide spatial continuity models
+3 **Kriging**: spatial estimation
+4 **Conclusions**: summary and feedback
 
 #### Getting Started
 
-Here's the steps to get setup in Python with the GeostatsPy package:
+Here's the steps to get setup locally with Anaconda for Python 3.\*, common Python packages, Jupyter Notebooks and the GeostatsPy package:
 
 1. Install [Anaconda 3](https://www.anaconda.com/products/individual). 
 2. From Anaconda Navigator (within Anaconda3 group), go to the environment tab, click on base (root) green arrow and open a terminal. 
@@ -42,11 +46,11 @@ import geostatspy.GSLIB as GSLIB
 import geostatspy.geostats as geostats
 ```
 
-You will need to copy the data file to your working directory.  They are available here:
+You will need to copy these data files to your working directory.  They are available in the [DataSets](https://github.com/GeostatsGuy/GeostatsPy_Intro_Course/tree/master/DataSets) folder of this repository:
 
-* Tabular data - sample_data.csv at https://git.io/fh4gm.
+* [sample_data_MV_biased,csv](https://github.com/GeostatsGuy/GeostatsPy_Intro_Course/blob/master/DataSets/sample_data_MV_biased.csv)
 
-There are exampled below with these functions. You can go here to see a list of the available functions, https://git.io/fh4eX, other example workflows and source code. 
+* [sample_data_biased.csv](https://github.com/GeostatsGuy/GeostatsPy_Intro_Course/blob/master/DataSets/sample_data_biased.csv)
 
 #### The Instructor:
 
@@ -58,8 +62,6 @@ With over 17 years of experience in subsurface consulting, research and developm
 For more about Michael check out these links:
 
 #### [Twitter](https://twitter.com/geostatsguy) | [GitHub](https://github.com/GeostatsGuy) | [Website](http://michaelpyrcz.com) | [GoogleScholar](https://scholar.google.com/citations?user=QVZ20eQAAAAJ&hl=en&oi=ao) | [Book](https://www.amazon.com/Geostatistical-Reservoir-Modeling-Michael-Pyrcz/dp/0199731446) | [YouTube](https://www.youtube.com/channel/UCLqEr-xV-ceHdXXXrTId5ig)  | [LinkedIn](https://www.linkedin.com/in/michael-pyrcz-61a648a1)
-
-Joined by Didi Ooi from Anadarko Advanced Analytics and Emerging Technology team, assisted with overview content and provided applications in class (not included here).
 
 #### Want to Work Together?
 
