@@ -16,6 +16,8 @@ Open source Python package for Spatial / Subsurface Data Analytics
 You will gain:
 * knowledge concerning basics of the use of the GeostatsPy package for spatial/subsurface data analytics and geostatistics. 
 
+* experience with a variety of practical spatial data analytics / geostatistics workflows in Python
+
 #### Course Agenda
 * Introduction: objectives, plan
 * Variogram Calculation - quantifying spatial continuity
