@@ -2,7 +2,7 @@
     <img src="https://github.com/GeostatsGuy/GeostatsPy/blob/master/TCG_color_logo.png?raw=true" width="220" height="200" />
 </p>
 
-# Introduction to Spatial Data Analytics and Geostatistics in Python with [GeostatsPy](https://github.com/GeostatsGuy/GeostatsPy), Short Course
+# Open Source Spatial Data Analytics in Python with [GeostatsPy](https://github.com/GeostatsGuy/GeostatsPy), Short Course
 
 by Michael Pyrcz, Associate Professor, The University of Texas at Austin
 
