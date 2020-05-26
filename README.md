@@ -1,6 +1,6 @@
 # Introduction to GeostatsPy Course
 
-Introduction to spatial data analytics and machine learning with GeostatsPy Python package
+Introduction to spatial data analytics and geostatistics with the GeostatsPy Python package
 
 
 <p>
