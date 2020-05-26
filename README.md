@@ -2,10 +2,17 @@
     <img src="https://github.com/GeostatsGuy/GeostatsPy/blob/master/TCG_color_logo.png?raw=true" width="220" height="200" />
 </p>
 
-# Introduction to [GeostatsPy](https://github.com/GeostatsGuy/GeostatsPy) Course
-
+# Introduction to [GeostatsPy](https://github.com/GeostatsGuy/GeostatsPy), Short Course
 
 Introduction to GeostatsPy, an open source Python package for Spatial / Subsurface Data Analytics and Geostatistics
+
+I have included in this repository:
+
+1. the lectures
+
+2. the well-documented and interactive demonstration workflows in Python
+
+3. datasets required for the workflows
 
 #### Course Objectives:
 
@@ -20,6 +27,26 @@ You will gain:
 * Variogram Modeling - formulating valide spatial continuity models
 * Kriging - spatial estimation
 * Conclusions
+
+#### Getting Started
+
+Here's the steps to get setup in Python with the GeostatsPy package:
+
+1. Install [Anaconda 3](https://www.anaconda.com/products/individual). 
+2. From Anaconda Navigator (within Anaconda3 group), go to the environment tab, click on base (root) green arrow and open a terminal. 
+3. In the terminal type: pip install geostatspy. 
+4. Open Jupyter Notebook and in the top block get started by copy and pasting the code block below from this Jupyter Notebook to start using the geostatspy functionality. 
+
+```python
+import geostatspy.GSLIB as GSLIB
+import geostatspy.geostats as geostats
+```
+
+You will need to copy the data file to your working directory.  They are available here:
+
+* Tabular data - sample_data.csv at https://git.io/fh4gm.
+
+There are exampled below with these functions. You can go here to see a list of the available functions, https://git.io/fh4eX, other example workflows and source code. 
 
 #### The Instructor:
 
