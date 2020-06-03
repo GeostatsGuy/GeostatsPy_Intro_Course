@@ -10,6 +10,8 @@ ___
 
 This course provides an introduction to GeostatsPy, an open source Python package for Spatial / Subsurface Data Analytics and Geostatistics, with fundamental spatial data analytics concepts in lectures followed by interactive demonstrations/exercises and more complete example well-documented worklfows.
 
+___
+
 **Before Attending the Course Please Install the Following**
  
 1. Anaconda 3.*
@@ -17,6 +19,7 @@ This course provides an introduction to GeostatsPy, an open source Python packag
 
 For more details see below.
 
+___
 
 I have included in this repository all of the course content:
 
