@@ -12,7 +12,7 @@ This course provides an introduction to GeostatsPy, an open source Python packag
 
 ___
 
-**Before Attending the Course Please Install the Following**
+**Before Attending the Course Please Install the Following**:
  
 1. Anaconda 3.*
 2. GeostatsPy package
