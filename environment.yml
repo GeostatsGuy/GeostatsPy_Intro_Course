@@ -9,6 +9,6 @@ dependencies:
   - numba
   - statsmodels
   - jupyter
-  - nb_conda_kernels
+  - matplotlib
   - pip:
       - geostatspy
