@@ -53,8 +53,10 @@ Here's the steps to get setup locally with Anaconda for Python 3.\*, common Pyth
 
 1. Install [Anaconda 3](https://www.anaconda.com/products/individual). 
 2. From Anaconda Navigator (within Anaconda3 group), go to the environment tab, click on base (root) green arrow and open a terminal. 
-3. In the terminal type: pip install geostatspy. 
-4. Open Jupyter Notebook and in the top block get started by copy and pasting the code block below from this Jupyter Notebook to start using the geostatspy functionality. 
+3. In the terminal type: `pip install geostatspy statsmodels` and `conda install pandas numpy scipy matplotlib jupyter`. 
+4. Navigate to where you unzipped or cloned the GitHub repository with the `cd` command (eg: `cd C:\Users\Joe\Documents\GitHub\GeostatsPy_Intro_Course`)
+5. Then start a notebook by typing `jupyter notebook`. The notebook control panel will open in your browser.
+6. Open Jupyter Notebook and in the top block get started by copy and pasting the code block below from this Jupyter Notebook to start using the geostatspy functionality. 
 
 ```python
 import geostatspy.GSLIB as GSLIB
