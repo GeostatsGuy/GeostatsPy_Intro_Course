@@ -69,6 +69,15 @@ You will need to copy these data files to your working directory.  They are avai
 
 * [sample_data_biased.csv](https://github.com/GeostatsGuy/GeostatsPy_Intro_Course/blob/master/DataSets/sample_data_biased.csv)
 
+##### Installation via Conda Environments
+
+1. Install [Anaconda 3](https://www.anaconda.com/products/individual)
+2. In the terminal type: ```conda env create -f environment.yml ```
+3. Switch to the ```geostats``` conda environment via the commandline: ```conda activate geostats```
+4. Run ```jupyter notebook``` from your commandline: ```jupyter notebook```
+
+Enjoy the included notebooks!
+
 #### The Instructor:
 
 ### Michael Pyrcz, Associate Professor, University of Texas at Austin 
